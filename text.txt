@@ -1,0 +1,13 @@
+// create virtaul eni
+virtualenv env
+//active the env
+env\Scripts\activate
+
+//run command 
+python  manage.py runserver
+
+//install django
+
+//to manage libraryb
+pip freeze > requirements.txt
+
